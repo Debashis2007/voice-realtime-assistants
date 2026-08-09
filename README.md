@@ -1,5 +1,7 @@
 # Use Case: Voice / Realtime Assistants
 
+**YouTube walkthrough:** [Voice Realtime Assistants — System Design #Shorts](https://youtu.be/a9h2PFHSUrs)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -47,6 +49,9 @@ Reuse `generation_id` lifecycle and cancel semantics from **02**; change transpo
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Voice Realtime Assistants — System Design #Shorts](https://youtu.be/a9h2PFHSUrs)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
