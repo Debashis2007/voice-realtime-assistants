@@ -1,7 +1,7 @@
 # Design: Voice Realtime Assistants
 
 **Project:** `voice-realtime-assistants`  
-**Parent system design:** [02 — Streaming Token Delivery](../02-streaming-token-delivery.md)
+**Parent system design:** [02 — Streaming Token Delivery](https://github.com/Debashis2007/voice-realtime-assistants/blob/main/02-streaming-token-delivery.md)
 
 ## 1. What this POC demonstrates
 

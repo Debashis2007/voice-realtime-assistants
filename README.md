@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [02 — Streaming Token Delivery](./02-streaming-token-delivery.md)
+**Parent system design:** [02 — Streaming Token Delivery](https://github.com/Debashis2007/voice-realtime-assistants/blob/main/02-streaming-token-delivery.md)
 
 ## Users & problem
 
