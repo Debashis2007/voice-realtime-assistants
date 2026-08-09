@@ -45,6 +45,13 @@ Reuse `generation_id` lifecycle and cancel semantics from **02**; change transpo
 
 
 
+
+## Design walkthrough (opens on GitHub)
+
+![Design overview](docs/video/design-overview.gif)
+
+Full narrated video (download): [docs/video/design-overview.mp4](docs/video/design-overview.mp4)
+
 ## Run (self-contained POC)
 
 This folder is a **standalone** project (safe to split into its own GitHub repo).
